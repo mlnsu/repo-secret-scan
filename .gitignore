@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+secret-scan
+secret-scan.exe
+build/
+dist/
+*.o
